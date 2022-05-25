@@ -1,0 +1,6 @@
+L = int(input("Enter length of the rectangle :- "))
+B = int(input("Enter breadth of the rectangle :- "))
+P = 2 * (L + B)
+A = (L * B)
+print(P)
+print(A)
